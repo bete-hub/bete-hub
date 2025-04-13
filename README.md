@@ -28,8 +28,8 @@ I'm a **Full Stack Software Engineer** with a strong focus on backend systems, D
 - Event-Driven Systems (Kafka, RabbitMQ)  
 - Secure Authentication and Authorization  
 
-## 🌐 Connect with Me
+## 📫 Let's Connect
  
-- 📧 betemariam.tegie@gmail.com
-- 📇 LinkedIn: [bete-24](https://www.linkedin.com/in/bete-24)   
-- 💻 GitHub: [bete-hub](https://github.com/bete-hub)
+- betemariam.tegie@gmail.com
+- LinkedIn: [bete-24](https://www.linkedin.com/in/bete-24)   
+- GitHub: [bete-hub](https://github.com/bete-hub)
